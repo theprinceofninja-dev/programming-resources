@@ -33,7 +33,8 @@ These require experience, practice, and struggling with the problem before solvi
 
 ## Explorer Mindset
 - Adopt the mindset of an explorer: be curious, investigate, don't fear the unknown
-- [How to learn — important video](https://www.youtube.com/watch?v=WbUOY9ioIqw)
+- [How to learn — important video](https://www.youtube.com/watch?v=WbUOY9ioIqw) · [Benjamin Keep, PhD, JD](https://www.youtube.com/@benjaminkeep) · 375K views · 22K likes · 9:21 · 2021
+  > Deliberate practice is one of the most popular ideas in learning and training.
 
 ## Practice
 - Continuous practice until mastery
@@ -101,9 +102,10 @@ When building any web or app project, always consider:
 
 ## Goal-Oriented Learning
 - Set a specific goal: build a specific app or solve a specific problem — not open-ended "learn programming"
-- [Video on setting clear goals in programming](https://youtu.be/rzwaaWH0ksk?si=ddqTXbNcJn9H67hB&t=6m)
+- [Video on setting clear goals in programming](https://youtu.be/rzwaaWH0ksk?si=ddqTXbNcJn9H67hB&t=6m) · [Theo - t3․gg](https://www.youtube.com/@t3dotgg) · 154K views · 6K likes · 34:40 · 2022
+  > This one was a bit chaotic but I hope it's helpful.
 - Start from a job offer and build your skills around what it requires
-- [Video: Start from the job offer](https://www.youtube.com/watch?v=ro4oGwMb-T4) — very clear and direct
+- [Video: Start from the job offer](https://www.youtube.com/watch?v=ro4oGwMb-T4) · [Kenny Gunderman](https://www.youtube.com/@kennygunderman) · 146K views · 5K likes · 10:43 · 2023 — very clear and direct
 
 ## Productivity — Finishing a Month of Work in a Day
 Key principles:
