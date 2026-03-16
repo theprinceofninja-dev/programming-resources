@@ -184,18 +184,6 @@
   > An efficient algorithm to find the minimum number of swaps required to sort the array in ascending...
 - [Nour Al-Homsi — video](https://youtu.be/oZDfqsnZo1Y) · [Nour Homsi](https://www.youtube.com/@NourHomsi) · 25K views · 1K likes · 7:28 · 2018
   > ما نراه بين أيدينا اليوم لم يصل إليه التاريخ بسهولة، العلم بذل جهدا كبيرا حتى نستطيع أن نشاهد فيديو على اليوتيوب بلحظات..
-- [Web path — recommended](https://youtu.be/WKDKWcAA-fM) · [CONNECT - كونكت](https://www.youtube.com/@connect-3448) · 71K views · 3K likes · 10:44 · 2017
-  > يتناول هذا الفيديو مقدمه عبارة عن شرح مبسط للدخول في مجال البرمجه والتصميم في عالم الانترنت و اسأل الله ان ينال هذا الشرح البسيط  اعجابكم و يفتح لكم باب الشغف للتعلم و العمل ^_^...
-- [Laravel — starting point](https://www.youtube.com/watch?v=E74_WZpjeKA) · [Net Ninja](https://www.youtube.com/@NetNinja) · 151K views · 2K likes · 6:24 · 2020
-  > Hey gang, in this Laravel tutorial we'll install Laravel using Composer.
-- [Long video — 5h 18m](https://m.youtube.com/watch?v=B-ytMSuwbf8) · [Envato Tuts+](https://www.youtube.com/@envatotuts) · 3.9M views · 112K likes · 5:18:44 · 2022
-  > If you're new to web design, this course on web design for beginners will teach you everything you need to know.
-- [Long video — 10h 48m](https://m.youtube.com/watch?v=nb4ovfwqup8) · [Nerd's lesson](https://www.youtube.com/@Nerdslesson) · 3.1M views · 70K likes · 10:48:58 · 2020
-  > Instructor Joe Gryniuk teaches you everything you wanted to know and more about the Fundamentals of Electricity.
-- [Long video — 3h 54m](https://m.youtube.com/watch?v=nWoSEXHVl7c) · [HackersOnBoard](https://www.youtube.com/@HackersOnBoard) · 41K views · 331 likes · 3:54:45 · 2013
-- [Long video — 12h 04m](https://m.youtube.com/watch?v=d0bIgigcOQM)
-- [Long video — 1h 24m](https://m.youtube.com/watch?v=tY1fokupHQ4) · [Advanced Photon Source](https://www.youtube.com/@AdvancedPhotonSource) · 72K views · 278 likes · 1:24:25 · 2011
-  > The AES Software Services Group at Argonne National Laboratory hosted a series of Python programming tutorials.
 - [Create 3D for web, the easy way! (Spline)](https://m.youtube.com/watch?v=ntyE5kincko) · [Rachel How](https://www.youtube.com/@RachelHow) · 116K views · 5K likes · 10:23 · 2022
   > Download Spline: Spline community: 👉 Discord Community: What i learned by building 8 income streams in 6...
 - [Web Developer Reacts to Incredible Personal Websites // Personal Portfolios](https://m.youtube.com/watch?v=BZqzhmlTkAc) · [Developer Filip](https://www.youtube.com/@developerfilip) · 2.4M views · 83K likes · 11:42 · 2020
@@ -218,8 +206,6 @@
   > الفرق بين الـ High Level Langue و Low Level Language يعني ايه Assembly Language و Machine...
 - [#00 - مقدمة للكورس | What is a programming language](https://youtu.be/jo-0kdRJebQ) · [محمود سامي Hard-Code l](https://www.youtube.com/@HardCode) · 16K views · 665 likes · 11:13 · 2020
   > مقدمة للكورس | معنى البرمجه والفايده منها رابط الكورس كامل:...
-- [يعني ايه مصمم المواقع و مطور المواقع وايه الفرق بينهم؟؟ web designer vs web developer](https://youtu.be/eZOQcVohZV8) · [Variable - مُتَغَيِّر](https://www.youtube.com/@variable-9562) · 154K views · 7K likes · 7:49 · 2018
-  > لو انت بتفكر تبدأ في مجال تصميم المواقع و تنفيذها و مش عارف تختار مصمم مواقع ولا مطور مواقع يبقي الفيديو ده...
 - [كيفية البدايه الصحيه في علم الشبكات ؟ جزء 1](https://youtu.be/J4kifO-NSqs) · [Ahmed Emara](https://www.youtube.com/@MrAhmedhamdy1980) · 14K views · 348 likes · 11:43 · 2013
   > م.أحمد حمدي عماره
 - [تعلم HTML و CSS خطوة بخطوة بطريقة سهلة ومبسطة - دورة كاملة](https://youtu.be/c9559JVpFV4) · [Nour Homsi](https://www.youtube.com/@NourHomsi) · 2.6M views · 60K likes · 1:57:01 · 2015
@@ -347,6 +333,8 @@
 - [CSS CodePen exercise](https://codepen.io/mayesh/pen/YzLwdZq)
 - [Good HTML+CSS course](https://m.youtube.com/watch?v=yFCUhQONVGA) · [Nour Homsi](https://www.youtube.com/@NourHomsi) · 188K views · 6K likes · 1:41:17 · 2019
   > هذا الدرس يجمع القسمين الأول والثاني، لذلك في حال شاهدت القسم الأول من درس html قم بالتوجه مباشرة إلى الدقيقة 38:00 حتى تتابع...
+- [Web Design for Beginners — full course](https://m.youtube.com/watch?v=B-ytMSuwbf8) · [Envato Tuts+](https://www.youtube.com/@envatotuts) · 3.9M views · 112K likes · 5:18:44 · 2022
+  > If you're new to web design, this course on web design for beginners will teach you everything you need to know.
 - [Bootstrap — excellent strong start](https://www.youtube.com/watch?v=iL0IEmTTjYU) · [Nour Homsi](https://www.youtube.com/@NourHomsi) · 116K views · 4K likes · 23:20 · 2021
   > #programming #Bootstrap تعلم البرمجة مع نور حمصي - المستوى المبتدئ --- السلسلة...
 - [JavaScript API](https://youtu.be/bB5tpD0Y73w) · [Nour Homsi](https://www.youtube.com/@NourHomsi) · 356K views · 10K likes · 40:09 · 2021
@@ -358,6 +346,8 @@
 - [Design rules playlist — Nour Al-Homsi](https://youtube.com/playlist?list=PLPTNqXpQ2tbgmAshpoR02QO4BfyWX3Dzs) · [Nour Homsi](https://www.youtube.com/@NourHomsi) · 16 videos
 - [UI/UX — very motivating starting video](https://youtu.be/x1EBrNY-bqQ) · [Always Calling Me Blaze](https://www.youtube.com/@alwayscallingmeblaze) · 37K views · 3K likes · 15:25 · 2022
   > *** I made a detailed guide here: Please let me know if there is anything you want added to the...
+- [Figma — UX Design UI Essentials Course](https://m.youtube.com/watch?v=kbZejnPXyLM) · [Bring Your Own Laptop](https://www.youtube.com/@BringYourOwnLaptop) · 3.0M views · 70K likes · 2:57:39 · 2021
+  > Get unlimited access to this full course and 30+ more here: Watch the entire...
 - Design software sequence: Photoshop → Illustrator → InDesign
 
 ## Web Frameworks & Projects
@@ -375,23 +365,13 @@
   > SureCart is a new ecommerce platform for WordPress.
 - [WordPress site — from-work walkthrough](https://youtu.be/H3c8fyr2Lwc) · [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool) · 329K views · 19K likes · 10:35 · 2021
   > سأكون سعيد جدا إذا دعمت القناة الوردبريس ولا البرمجة الخاصة ؟ فيديو بنتكلم فيه عن الفرق بين الوردبريس والبرمجة الخاصة وإمتى تستعمل كل حاجة فيهم وأهم العيوب والمميزات ومواقف من...
-- [Nour Al-Homsi — WordPress video](https://youtu.be/zmotal8b5Qc) · [Nour Homsi](https://www.youtube.com/@NourHomsi) · 51K views · 2K likes · 1:30:00 · 2020
-  > #html #css #scss #sass لغة ساس هي اللغة التي جعلت بالإمكان كتابة ستايلات (أنماط) المواقع بلغة برمجية تتضمن الحلقات التكرارية والدوال وإدخال القيم، بدل الكتابة بالطريقة اليدوية من خلال لغة...
 
-## Design Patterns
-- [Design Patterns](https://www.youtube.com/watch?v=tv-_1er1mWI) · [Fireship](https://www.youtube.com/@Fireship) · 2.8M views · 92K likes · 11:04 · 2022
-  > Software design patterns help developers to solve common recurring problems with code.
-- [Design Patterns in Arabic — full course](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj) · [DevGeeks Academy](https://www.youtube.com/@devgeeksacademy3340) · 51K views · 1K likes · 11:24 · 2021
-  > شرح مبسط لأنماط التصميم فى البرمجة 0:00 Introduction to Design Patterns 2:08 What is Behavioral Design...
-- [Design Patterns — Coursera](https://www.coursera.org/learn/design-patterns)
 
 ## Python GUI Frameworks
 - [Top 10 Python GUI Frameworks compared — ActiveState](https://www.activestate.com/blog/top-10-python-gui-frameworks-compared/)
 - [Tkinter Does Not Suck — Reddit discussion](https://www.reddit.com/r/programming/comments/rsu5s/tkinter_does_not_suck/)
 
 ## Python (Extended)
-- [Python projects](https://www.youtube.com/watch?v=EWv2jnhZErc) · [JavaScript King](https://www.youtube.com/@JavaScriptKing) · 1.2M views · 34K likes · 11:13:45 · 2022
-  > 16 HTML CSS JavaScript projects for beginners.
 - [How to write a Python script](https://youtu.be/pofWfJc3Zog) · [Richard White](https://www.youtube.com/@rwhite5279) · 954K views · 7K likes · 13:35 · 2012
   > This 14-minute demo shows how to use two terminal windows to write and debug a simple Python2...
 - [Python writing style — important](https://youtu.be/OSGv2VnC0go) · [Next Day Video](https://www.youtube.com/@NextDayVideo) · 1.1M views · 25K likes · 48:51 · 2013
@@ -406,6 +386,8 @@
 - [Analyzing video with OpenCV + NumPy — ClassCentral](https://www.classcentral.com/course/analyzing-video-opencv-numpy-20996) — motivating project
 - [Advanced Python projects — gotrained.com](https://python.gotrained.com/messaging-telegram-members-telethon/) — Telegram + YouTube API projects
 - [Tech With Tim](https://m.youtube.com/c/TechWithTim/playlists) — full of projects
+- [Python Programming Tutorials — Argonne Lab](https://m.youtube.com/watch?v=tY1fokupHQ4) · [Advanced Photon Source](https://www.youtube.com/@AdvancedPhotonSource) · 72K views · 278 likes · 1:24:25 · 2011
+  > The AES Software Services Group at Argonne National Laboratory hosted a series of Python programming tutorials.
 - [Elzero — Mastering Python Study Plan](https://elzero.org/study/mastering-python-study-plan/) — full structured plan with exercises; good for anyone who feels weak
 - [Python exercises solutions — YouTube channel](https://www.youtube.com/channel/UCLPC-0ew_spZ4K-e2yaA7bA/videos) — someone solving Elzero exercises with video walkthroughs
 - [Real World Python Projects — Udemy](https://www.udemy.com/course/do-different-real-world-python-projects-as-a-beginner/)
@@ -413,19 +395,10 @@
 ## DS / Algo
 - [DSA Visualization — log2base2](https://log2base2.com/dsa)
 - [data-flair.training](https://data-flair.training/blogs/) — great project ideas
-- [Long video — 5h 18m](https://m.youtube.com/watch?v=B-ytMSuwbf8) · [Envato Tuts+](https://www.youtube.com/@envatotuts) · 3.9M views · 112K likes · 5:18:44 · 2022
-  > If you're new to web design, this course on web design for beginners will teach you everything you need to know.
-- [Long video — 10h 48m](https://m.youtube.com/watch?v=nb4ovfwqup8) · [Nerd's lesson](https://www.youtube.com/@Nerdslesson) · 3.1M views · 70K likes · 10:48:58 · 2020
-  > Instructor Joe Gryniuk teaches you everything you wanted to know and more about the Fundamentals of Electricity.
-- [Long video — 3h 54m](https://m.youtube.com/watch?v=nWoSEXHVl7c) · [HackersOnBoard](https://www.youtube.com/@HackersOnBoard) · 41K views · 331 likes · 3:54:45 · 2013
-- [Long video — 12h 04m](https://m.youtube.com/watch?v=d0bIgigcOQM)
-- [Long video — 1h 24m](https://m.youtube.com/watch?v=tY1fokupHQ4) · [Advanced Photon Source](https://www.youtube.com/@AdvancedPhotonSource) · 72K views · 278 likes · 1:24:25 · 2011
-  > The AES Software Services Group at Argonne National Laboratory hosted a series of Python programming tutorials.
 
 ## Databases
 - [Databases — a full path on its own](https://youtu.be/WhkNQ3g0U64) · [techTFQ](https://www.youtube.com/@techTFQ) · 127K views · 3K likes · 9:38 · 2022
   > In this video, we look at another SQL interview query.
-- [Servers and virtual servers](https://youtu.be/NKc3k7xceT8)
 
 ## Mobile / Flutter
 - [My first experience with Flutter](https://youtu.be/UgrrMLiRMOI)
@@ -581,15 +554,6 @@
 - [Software Engineering Basics — playlist](https://www.youtube.com/watch?v=sB2iQSvrcG0&list=PLJse9iV6Reqi3Df-CCxAeTCEzWlteQXgn) · [0612 TV w/ NERDfirst](https://www.youtube.com/@NERDfirst) · 374K views · 7K likes · 32:37 · 2017
   > In university and colleges, software engineering can be a large part of the learning process.
 - [Software engineering course — Coursera (OO Design)](https://www.coursera.org/lecture/object-oriented-design/1-1-1-welcome-to-software-design-and-architecture-c2Jit)
-- [5 Skills for a programming job](https://www.youtube.com/watch?v=x22v39Cka1o) · [Tech With Tim](https://www.youtube.com/@TechWithTim) · 73K views · 3K likes · 9:34 · 2023 — Git, Testing, System Design, Scalability, Documentation
-  > Today, I'll be sharing with you the best 5 skills you NEED to learn in order to become an effective and efficient software engineer.
-- [5 Steps to become a Software Engineer](https://www.youtube.com/watch?v=V1PdbnuPMi8) · [Tech With Tim](https://www.youtube.com/@TechWithTim) · 104K views · 5K likes · 12:40 · 2022 — :
-  > Welcome back to another video on my channel!
-  1. Master the basics (datatypes, variables, conditions, loops, functions, OOP)
-  2. Write clean and efficient code (SOLID, design patterns, naming conventions)
-  3. Learn software engineering tools (git, linux, bash, networking, IDEs, debuggers)
-  4. Advanced programming (iterators, generators, decorators, threading, standard libraries)
-  5. Learn software design and architecture (design patterns)
 - [Big project principles — c2 wiki](http://wiki.c2.com/?YouArentGonnaNeedIt): YAGNI, Agile, XP Roadmap, Do the Simplest Thing, Once and Only Once
 - [Data Structures Easy to Advanced — Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD) · [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) · 7.3M views · 148K likes · 8:03:17 · 2019
   > Learn and master the most common data structures in this full course from Google engineer William Fiset.
@@ -637,6 +601,8 @@
 - [JS Run — Android app for practicing JS](https://play.google.com/store/apps/details?id=com.mia.jsrun)
 
 ### JavaScript Beginner Projects
+- [16 HTML CSS JavaScript Projects for Beginners](https://www.youtube.com/watch?v=EWv2jnhZErc) · [JavaScript King](https://www.youtube.com/@JavaScriptKing) · 1.2M views · 34K likes · 11:13:45 · 2022
+  > 16 HTML CSS JavaScript projects for beginners.
 - [jsbeginners.com — JavaScript projects for beginners](https://jsbeginners.com/javascript-projects-for-beginners/)
 - [mikkegoes.com — JavaScript projects for beginners](https://mikkegoes.com/javascript-projects-for-beginners/)
 - [hackr.io — JavaScript projects](https://hackr.io/blog/javascript-projects)
@@ -670,6 +636,8 @@
   > In this video, we will set up Tailwind CLI and create a landing page from start to finish, going over many of the common utility classes and then deploying it to InMotion Hosting using...
 - [Fireship on Tailwind](https://youtu.be/lHZwlzOUOZ4) · [Fireship](https://www.youtube.com/@Fireship) · 1.8M views · 67K likes · 3:54 · 2023
   > People have been debating the merits of Tailwind on twitter recently, so let's look at the pros and cons of this popular CSS...
+- [SCSS/SASS full course — Nour Al-Homsi](https://youtu.be/zmotal8b5Qc) · [Nour Homsi](https://www.youtube.com/@NourHomsi) · 51K views · 2K likes · 1:30:00 · 2020
+  > SCSS/SASS — write CSS with loops, functions, and variables instead of manual repetition.
 - [What is SASS and SCSS](https://www.youtube.com/watch?v=Xq_LYnXRG8A) · [Studytonight with Abhishek](https://www.youtube.com/@Studytonight) · 8K views · 160 likes · 3:16 · 2022
   > Are you also confused about what it is SaaS, in this video, we have shared the definition of SaaS and whether is it new in CSS and explained all the things in just 3 min, and we have this value to help you understand...
 - [7 ways to write CSS](https://m.youtube.com/watch?v=ouncVBiye_M) · [Fireship](https://www.youtube.com/@Fireship) · 1.2M views · 47K likes · 6:23 · 2022
@@ -710,6 +678,8 @@
   > In this video, I will introduce you to MongoDB Atlas, the multi-cloud application data platform from MongoDB, and walk you through how to set up and connect to the database, loading sample data and performing CRUD...
 - [NetworkChuck — SQL](https://www.youtube.com/watch?v=xiUTqnI6xk8) · [NetworkChuck](https://www.youtube.com/@NetworkChuck) · 2.0M views · 60K likes · 24:25 · 2022
   > Keep your database of accounts and passwords secure by using DashLane!
+- [Database Sharding explained](https://m.youtube.com/watch?v=5faMjKuB9bc) · [Gaurav Sen](https://www.youtube.com/@gkcs) · 1.1M views · 24K likes · 8:55 · 2018
+  > Sharding a database is a common scalability strategy for designing server-side systems.
 
 ## DevOps & Infrastructure
 
@@ -735,6 +705,7 @@ PlantUML is a text-based tool for creating diagrams. Useful for documenting code
 - [Prevent duplicate cron jobs — ServerFault](https://serverfault.com/questions/82857/prevent-duplicate-cron-jobs-running/82863#82863)
 
 ### Linux & Servers
+- [Servers and virtual servers](https://youtu.be/NKc3k7xceT8)
 - [Ubuntu Server — getting started](https://m.youtube.com/watch?v=2Btkx9toufg) · [Byte My Pi](https://www.youtube.com/@bytemypi2918) · 705K views · 14K likes · 1:09:33 · 2021
   > 01:01 Server Hardware 02:12 Physical Server (bare metal) vs.
 - [Linux Server Course — System Configuration and Operation](https://m.youtube.com/watch?v=WMy3OzvBWc0) · [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) · 1.4M views · 37K likes · 5:26:46 · 2021
@@ -756,8 +727,8 @@ PlantUML is a text-based tool for creating diagrams. Useful for documenting code
 ### Job Preparation
 - [5 skills for a programming job](https://www.youtube.com/watch?v=x22v39Cka1o) · [Tech With Tim](https://www.youtube.com/@TechWithTim) · 73K views · 3K likes · 9:34 · 2023
   > Today, I'll be sharing with you the best 5 skills you NEED to learn in order to become an effective and efficient software engineer.
-- [5 steps to become a Software Engineer](https://www.youtube.com/watch?v=V1PdbnuPMi8) · [Tech With Tim](https://www.youtube.com/@TechWithTim) · 104K views · 5K likes · 12:40 · 2022
-  > Welcome back to another video on my channel!
+- [5 Steps to become a Software Engineer](https://www.youtube.com/watch?v=V1PdbnuPMi8) · [Tech With Tim](https://www.youtube.com/@TechWithTim) · 104K views · 5K likes · 12:40 · 2022
+  > 1. Master the basics  2. Write clean and efficient code (SOLID, design patterns)  3. Learn SE tools (git, linux, bash, networking)  4. Advanced programming (iterators, generators, decorators)  5. Learn software design and architecture
 - [Complete Roadmap to Full Stack Web Dev](https://m.youtube.com/watch?v=FZqvuelEgYQ)
 - [Programming roadmaps](https://www.youtube.com/watch?v=66tfvFeALBQ) — Bash/Linux, Git/GitHub, HTTP/Networking, DB, API, Docker/Kubernetes
 - [Frontend Web Development projects that got me hired](https://m.youtube.com/watch?v=tCHSzNXbNq4)
@@ -782,8 +753,6 @@ PlantUML is a text-based tool for creating diagrams. Useful for documenting code
 - [Introduction to Programming and CS — Full Course](https://m.youtube.com/watch?v=zOjov-2OZ0E) · [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) · 10.9M views · 238K likes · 1:59:09 · 2020
   > In this course, you will learn basics of computer programming and computer science.
 - [Before learning programming — Elzero playlist](https://m.youtube.com/playlist?list=PLDoPjvoNmBAx8xKvAXpb6f0Urj98Xo7zg) · [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool) · 10 videos
-- [Figma — UX Design UI Essentials Course](https://m.youtube.com/watch?v=kbZejnPXyLM) · [Bring Your Own Laptop](https://www.youtube.com/@BringYourOwnLaptop) · 3.0M views · 70K likes · 2:57:39 · 2021
-  > Get unlimited access to this full course and 30+ more here: Watch the entire...
 - [MVC explained](https://m.youtube.com/watch?v=2Q69R0GD9zM) · [Abd AbuGhazaleh - عبد ابوغزالة](https://www.youtube.com/@aghazaleh) · 45K views · 863 likes · 6:04 · 2021
   > شرح مبسط لمبدئ MVC Design Pattern مع مثال على ارض الواقع , كلمة MVC تنقسم الى Model - View - Controller و من خلال هذا الفيديو البسيط سوف اقوم بتوضيح فكرة كل منهم ببساطة...
 - [What is a Linux distro?](https://www.youtube.com/watch?v=ShcR4Zfc6Dw) · [Fireship](https://www.youtube.com/@Fireship) · 1.8M views · 62K likes · 8:22 · 2021
@@ -880,8 +849,6 @@ PlantUML is a text-based tool for creating diagrams. Useful for documenting code
 ### Information Security
 - [10 JS security vulnerabilities every developer should know](https://m.youtube.com/watch?v=1TWHqmIuvfo) · [semgrep](https://www.youtube.com/@semgrep) · 5K views · 202 likes · 4:06 · 2023
   > In this video, Brandon Wu, Software Engineer at Semgrep, walks through 10 security vulnerabilities that anyone using JavaScript should...
-- [Database Sharding explained](https://m.youtube.com/watch?v=5faMjKuB9bc) · [Gaurav Sen](https://www.youtube.com/@gkcs) · 1.1M views · 24K likes · 8:55 · 2018
-  > Sharding a database is a common scalability strategy for designing server-side systems.
 - Cryptography basics: Caesar cipher, data encoding (ASCII, Unicode, Base64)
 - Cryptanalysis: try reverse, letter substitution, dictionary lookup
 - Pigpen cipher — geometric substitution cipher (each letter mapped to a geometric shape)
